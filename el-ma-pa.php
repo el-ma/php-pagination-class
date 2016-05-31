@@ -1,0 +1,6 @@
+<?php
+
+/**
+* Php Pagination Class
+*
+*/
