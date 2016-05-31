@@ -1,2 +1,2 @@
-# php-pagination-library
-El-ma-pa
+# php-pagination-class
+
