@@ -4,3 +4,8 @@
 * Php Pagination Class
 *
 */
+
+class Epa
+{
+  
+}
